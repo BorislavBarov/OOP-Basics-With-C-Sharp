@@ -1,0 +1,4 @@
+﻿public interface IMouse : IMammal
+{
+
+}
